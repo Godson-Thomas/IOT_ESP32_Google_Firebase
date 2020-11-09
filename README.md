@@ -1,4 +1,4 @@
-&nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Godson-Thomas/IOT_ESP32_Google_Firebase/blob/master/Images/A/1_image.png" width="500" >  <br>
+&nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Godson-Thomas/IOT_ESP32_Google_Firebase/blob/master/Images/A/1_image.png" width="500" >  <br>
 # ESP32 To  GOOGLE FIREBASE
 ## ***Arduino IDE Setup*** :
 
@@ -28,11 +28,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
  * Go to ***Sketch*** >> ***Include Library*** >> ***Add .ZIP Library*** >> Select the downloaded firebase library<br><br>
  <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/1.jpg" width="400"> <br><br>
  
- 7. Installing ArduinoJson library
-* ***Sketch***  >>***Include Library*** >> ***Manage Libraries***<br><br>
-  <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/2.png" width="600"> <br><br>
-*  Type ***ArduinoJson***  >> Install a lower version<br><br>
-<img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/3.png" width="600"> <br><br>
+ 
 
 ## ***Google Firebase Setup*** :
 
@@ -56,7 +52,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/F/11.png" width="600"> <br><br>
 
 ## ***Coding*** : 
-### [code](https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/FIREBASE_NODE.ino)
+### [code](https://github.com/Godson-Thomas/IOT_ESP32_Google_Firebase/blob/master/ESP32_Firebase/ESP32_Firebase.ino)
 
 15.  Include necessary libraries
 ```
