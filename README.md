@@ -24,7 +24,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 <img src="https://github.com/Godson-Thomas/IOT_ESP32_Google_Firebase/blob/master/Images/A/_6.png" width="400"> <br><br>
 
 6. Installing Firebase library<br>
- * [click here]() to download the library
+ * [click here](https://github.com/Godson-Thomas/IOT_ESP32_Google_Firebase/raw/master/Images/Firebase_ESP32_Client.rar) to download the library
  * Go to ***Sketch*** >> ***Include Library*** >> ***Add .ZIP Library*** >> Select the downloaded firebase library<br><br>
  <img src="https://github.com/Godson-Thomas/IOT_Google_Firebase-NodeMCU/blob/master/Images/A/1.jpg" width="400"> <br><br>
  
