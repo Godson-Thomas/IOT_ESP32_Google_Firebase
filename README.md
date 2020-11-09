@@ -20,7 +20,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 4. Type **esp32** in the search bar and Install it.<br><br>
 <img src="https://github.com/Godson-Thomas/IOT_ESP32_Google_Firebase/blob/master/Images/A/_5.png" width="400"> <br><br>
 
-5. Connect ESP32 and upload the Code by selecting ***Tools*** >> ***Board*** >> ***NodeMCU***.<br><br>
+5. Connect ESP32 and upload the Code by selecting ***Tools*** >> ***Board*** >> ***ESP32 Dev Module***.<br><br>
 <img src="https://github.com/Godson-Thomas/IOT_ESP32_Google_Firebase/blob/master/Images/A/_6.png" width="400"> <br><br>
 
 6. Installing Firebase library<br>
