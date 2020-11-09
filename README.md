@@ -3,7 +3,7 @@
 ## ***Arduino IDE Setup*** :
 
  1. Install Arduino IDE. [link here](https://www.arduino.cc/en/main/software)<br>
- 2. Now we have to Install ESP8266 Board.<br>
+ 2. Now we have to Install ESP32 Board.<br>
 * Copy<br>
 ```
 https://dl.espressif.com/dl/package_esp32_index.json
@@ -12,16 +12,16 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 * ***File*** >> ***Preferences*** >> Paste the Url into the *Additional Board Manager URLs*<br><br>
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B.png" width="400"> <br><br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B3.png" width="400"> <br><br>
+<img src="https://github.com/Godson-Thomas/IOT_ESP32_Google_Firebase/blob/master/Images/A/_3.JPG" width="400"> <br><br>
 
 3. ***Tools*** >> ***Board*** >>***Boards Manager*** <br><br>
 <img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B6.png" width="400"> <br><br>
 
-4. Type **esp8266** in the search bar and Install it.<br><br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B7.png" width="400"> <br><br>
+4. Type **esp32** in the search bar and Install it.<br><br>
+<img src="https://github.com/Godson-Thomas/IOT_ESP32_Google_Firebase/blob/master/Images/A/_5.png" width="400"> <br><br>
 
-5. Connect ESP8266 and upload the Code by selecting ***Tools*** >> ***Board*** >> ***NodeMCU***.<br><br>
-<img src="https://github.com/Godson-Thomas/Data-transfer-between-Arduino-UNO-and-ESP8266/blob/master/UNO_to_ESP8266/Images/B8.png" width="400"> <br><br>
+5. Connect ESP32 and upload the Code by selecting ***Tools*** >> ***Board*** >> ***NodeMCU***.<br><br>
+<img src="https://github.com/Godson-Thomas/IOT_ESP32_Google_Firebase/blob/master/Images/A/_6.png" width="400"> <br><br>
 
 6. Installing Firebase library<br>
  * [click here]() to download the library
